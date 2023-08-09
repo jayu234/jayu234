@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vgl8UMT4NhxwyFwkVZmHhZjWPWXd_EZu/view](https://drive.google.com/file/d/1Vgl8UMT4NhxwyFwkVZmHhZjWPWXd_EZu/view)
 
-- ⚡ Fun fact **I code like it's magic 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
