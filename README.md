@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayu234&label=Profile%20views&color=0e75b6&style=flat" alt="jayu234" /> </p>
 
 - 🌱 I’m currently learning **NextJs and NestJs**
-
+  
+- 🤝 I’m looking for a new role **Software Engineer**
+  
 - 💬 Ask me about **ReactJs, NodeJs, MongoDB**
 
 - 📫 How to reach me **jaivikgoswami780@gmail.com**
