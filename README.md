@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaivikgoswami780@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vgl8UMT4NhxwyFwkVZmHhZjWPWXd_EZu/view](https://drive.google.com/file/d/1Vgl8UMT4NhxwyFwkVZmHhZjWPWXd_EZu/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mtUL_-zka5OidNQivbKVjfEu7BZnGCyM/view?usp=sharing](https://drive.google.com/file/d/1mtUL_-zka5OidNQivbKVjfEu7BZnGCyM/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
